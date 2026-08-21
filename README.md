@@ -1,6 +1,12 @@
 # Qwerty13
 Good enough keyboard layout which is similar to Qwerty (only 13 keys change their positions). It uses Angle Mod: `c` - index finger, `x` - middle finger, and `z` - the ring finger.
 
+```
+q w l d f  k u i o j [ ]
+n s r t g  y h e a ; '
+ z x c v b  p m , . /
+```
+
 <img src="./img/qwerty13.jpg" width="500">
 
 - White (13 letters)- Characters retain their position (relative to Qwerty)
@@ -10,6 +16,14 @@ Good enough keyboard layout which is similar to Qwerty (only 13 keys change thei
 - Red (3 letters) - The letter changes both fingers and hands
 
 13 letters retain their positions; 4 letters retained both their finger and hand positions.
+
+### Qwerty13-punct
+
+```
+q w l d f  k u i o j [ ]
+n s r t g  y h e a , '
+ z x c v b  p m / . ;
+```
 
 ## The reason for creating Qwerty13
 
@@ -121,3 +135,5 @@ As you can see, Qwerty13 has almost zero bad scissors of all types (PRS - pinky/
 Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is acceptable level. This extra percentage of SFB is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `ie` are comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `mu`, `um`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
 
 Overall bigrams rating of Qwerty13 is pretty high - it stands even higher then Graphite (but Graphite has slightly better trigrams stats).
+
+So, Qwerty13 has more similarity with Qwerty then Colemak and has stats on the same level with the best modern layouts. 
