@@ -132,7 +132,7 @@ qwerty(std)           2!2.35  2!3.19  !10.94    7.73   11.57    9.75    2.31   5
 ```
 As you can see, Qwerty13 has almost zero bad scissors of all types (PRS - pinky/ring scissors, FS - Full Scissors, WS - Wide Scissors, HS - Half Scissors). It has acceptable level of LSB of all types. And it has the most advanced stats for pinky<->middle rolls and ring->pinky rolls.
 
-Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is acceptable level. This extra percentage of SFB is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `ie` are comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `mu`, `um`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
+Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is acceptable level. This extra percentage of SFB is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `ie` is comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `mu`, `um`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
 
 Overall bigrams rating of Qwerty13 is pretty high - it stands even higher then Graphite (but Graphite has slightly better trigrams stats).
 
