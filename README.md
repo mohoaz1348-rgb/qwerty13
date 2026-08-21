@@ -1,5 +1,5 @@
 # Qwerty13
-Good enough keyboard layout which is similar to Qwerty (only 13 keys change their positions)
+Good enough keyboard layout which is similar to Qwerty (only 13 keys change their positions). It uses Angle Mod: `c` - index finger, `x` - middle finger, and `z` - the ring finger.
 
 <img src="./img/qwerty13.jpg" width="500">
 
