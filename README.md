@@ -64,6 +64,21 @@ qwerty(ang)           3!0.78  2!0.20    0.08    0.04    0.14   !9.33    2.51   !
 qwerty(std)           3!0.79 13!1.09   !0.19    0.22    0.18   !9.50    2.51   !4.39 11?2.38  4!0.22  3!7.52    2.81    0.46    0.10   !2.48    0.44   26.03
 
 ```
+- **PRS** – Pinky/Ring Scissors (Half and Full)
+- **FS(bad)** – Full Scissors (only Bad). Good Scissors (Index on buttom row) not included
+- **WS(bad)** – Wide Scissors (only Bad)
+- **HS(bad)** – Half-Scissors (only Bad). For example `wd`, `dw`, `sc` on Qwerty
+- **SFB(P)** – SFB on Pinkies
+- **SFB** – All SFB (SFB(0u) included))
+- **SFB(3u)** – For example `br`, `my` on Qwerty
+- **LSB(IM)** – LSB on Index/Middle. Qwerty `nk` – not LSB on ANSI keyboard. Qwerty `ve` – LSB on Standart and Angle Mode
+- **LSB(IR)** – LSB on Index/ Ring. Qwerty `nl` – not LSB on ANSI keyboard. Qwerty `vw` – LSB on Standart and Angle Mode
+- **LSB(IP)** – LSBs that require simultaneous stretching of the little finger and index finger. For example `ba`, `ab` on Qwerty
+- **LSB(P)** - LSB Pinky/Ring + LSB Pinky/Middle
+- **R(P-M)** – Rolls Pinky/Middle
+- **R(R→P)** – Roll-out Ring→Pinky
+- **Sort By** = sum(k*value)
+
 Layouts rating in [ABA Analyzer](https://github.com/mohoaz1348-rgb/layout_bigrams_analyzer) (by bigrams effort):  
 `-3` - most inconvenient bigrams  
 `3` - most convenient bigrams
@@ -101,8 +116,8 @@ qwerty(ang)           2!1.82   !2.59   !9.78    7.73   12.71   10.74    2.50   5
 qwerty(std)           2!2.35  2!3.19  !10.94    7.73   11.57    9.75    2.31   54.36    0.19   26.72
 
 ```
-As you can see, Qwerty13 has almost zero bad scissors of all types (PRS - pinky/ring scissors, FS - Full Scissors, WS - Wide Scissors, HS - Half Scissors). It has acceptable level of LSB of all types. And most advanced stats for pinky/middle rolls and ring->pinky rolls.
+As you can see, Qwerty13 has almost zero bad scissors of all types (PRS - pinky/ring scissors, FS - Full Scissors, WS - Wide Scissors, HS - Half Scissors). It has acceptable level of LSB of all types. And it has the most advanced stats for pinky<->middle rolls and ring->pinky rolls.
 
 Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is acceptable level. This extra percentage of SFB is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `ie` are comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `mu`, `um`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
 
-Overall bigrams rating of Qwerty is pretty high - it stands even higher then Graphite (but Graphite slightly better trigrams stats)
+Overall bigrams rating of Qwerty13 is pretty high - it stands even higher then Graphite (but Graphite has slightly better trigrams stats).
