@@ -11,6 +11,24 @@ Good enough keyboard layout which is similar to Qwerty (only 13 keys change thei
 
 13 letters retain their positions; 4 letters retained both their finger and hand positions.
 
+## The reason for creating Qwerty13
+
+I already stick with my and game layout [Grawerty-punct](https://github.com/mohoaz1348-rgb/grawerty), but I just want to create layout that has maximum (even more then Grawerty) similarity with Qwerty and still has good trigrams and bigrams stats (on the same level this the best modern layouts).
+
+## Comparison this other layouts
+
+![Qwerty13-oxey](./img/qwerty13-oxey.png)
+
+### Trigrams
+
+The overall number of redirects are 5% and it increased by 2% compared to Graphite, Gallium, Northstar, Placebo – that's slightly exceed my red flag which I sat to 4% (Grawerty layout has 3.7%). But many modern layouts treat this level of redirects as aceptable (Sturdy, Pine-v4, Nokwts, Eclipse). Canary, Stand has total redirects about 7%.
+
+The number of weak redirects is almost zero - 0.085%.
+
+So, Qwerty13 solved the worst issue of Qwerty - enormous number of redirects and especially weak redirects. Colemak doesn't solve it.
+
+### Bigrams
+
 Layouts rating in [ABA Analyzer](https://github.com/mohoaz1348-rgb/layout_bigrams_analyzer) (by bigrams type):
 ```
                          3.0     3.0     3.0     1.5     3.0     0.0     1.0     1.0     2.0     3.0     0.5    0.25     1.0     2.5     0.5     0.5
@@ -83,3 +101,8 @@ qwerty(ang)           2!1.82   !2.59   !9.78    7.73   12.71   10.74    2.50   5
 qwerty(std)           2!2.35  2!3.19  !10.94    7.73   11.57    9.75    2.31   54.36    0.19   26.72
 
 ```
+As you can see, Qwerty13 has almost zero bad scissors of all types (PRS - pinky/ring scissors, FS - Full Scissors, WS - Wide Scissors, HS - Half Scissors). It has acceptable level of LSB of all types. And most advanced stats for pinky/middle rolls and ring->pinky rolls.
+
+Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is acceptable level. This extra percentage of SFB is quite comfortable to type, as it's concentrated in just a few bigrams on the index and middle fingers. `ie` are comfortable, `ct` is less comfortable, `e,` is awkward, `up`, `pu`, `mu`, `um`, `dg`, `dv` are easy to type using the index and middle fingers - this is quite familiar to Qwerty users.
+
+Overall bigrams rating of Qwerty is pretty high - it stands even higher then Graphite (but Graphite slightly better trigrams stats)
