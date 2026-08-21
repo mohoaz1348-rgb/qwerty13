@@ -37,7 +37,7 @@ I already stick with my and game layout [Grawerty-punct](https://github.com/moho
 
 The overall number of redirects are 5% and it increased by 2% compared to Graphite, Gallium, Northstar, Placebo – that's slightly exceed my red flag which I sat to 4% (Grawerty layout has 3.7%). But many modern layouts treat this level of redirects as aceptable (Sturdy, Pine-v4, Nokwts, Eclipse). Canary, Stand has total redirects about 7%.
 
-The number of weak redirects is almost zero - 0.085%.
+The number of weak redirects is almost zero - 0.085%. Champion.
 
 So, Qwerty13 solved the worst issue of Qwerty - enormous number of redirects and especially weak redirects. Colemak doesn't solve it.
 
