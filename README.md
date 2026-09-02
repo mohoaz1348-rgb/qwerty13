@@ -25,6 +25,22 @@ n s r t g  y h e a , '
  z x c v b  p m / . ;
 ```
 
+### Qwerty13-orto
+
+```
+b w l d f  k u i o j [ ]
+n s r t g  y h e a ; '
+q z x c v  p m , . /
+```
+
+### Qwerty13-orto-punct
+
+```
+b w l d f  k u i o j [ ]
+n s r t g  y h e a , '
+q z x c v  p m / . ;
+```
+
 ## The reason for creating Qwerty13
 
 I already stick with my and game layout [Grawerty-punct](https://github.com/mohoaz1348-rgb/grawerty), but I just want to create layout that has maximum (even more then Grawerty) similarity with Qwerty and still has good trigrams and bigrams stats (on the same level this the best modern layouts).
