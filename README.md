@@ -154,4 +154,4 @@ Qwerty13 has total level of SFB like Dvorak and Grawerty layouts. For me this is
 
 Overall bigrams rating of Qwerty13 is pretty high - it stands even higher then Graphite (but Graphite has slightly better trigrams stats).
 
-So, Qwerty13 has more similarity with Qwerty then Colemak, Middlemak-NH and has stats on the same level with the best modern layouts. 
+So, Qwerty13 has more similarity with Qwerty than Colemak, Middlemak-NH and has stats on the same level with the best modern layouts. 
